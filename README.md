@@ -2,6 +2,9 @@
 
 국립환경과학원 환경위성센터에서 제공하는 정지궤도 복합위성 2B호(GK-2B)의 환경위성탑재체(GEMS) 데이터를 활용하여 개발함.
 
+<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/51f86b4a-4207-4df3-acf9-c31772f4adda" />
+
+<br>
 <br>
 
 ### 선행 조건
